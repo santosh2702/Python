@@ -12,7 +12,7 @@ activities like login regiter etc.
 
 
 
-
+Bringing MySQL to the web
 #phpMyAdmin
 phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB. Frequently used operations (managing databases, tables, columns, relations, indexes, users, permissions, etc) can be performed via the user interface, while you still have the ability to directly execute any SQL statement.
 phpMyAdmin comes with a wide range of documentation and users are welcome to update our wiki pages to share ideas and howtos for various operations. The phpMyAdmin team will try to help you if you face any problem; you can use a variety of support channels to get help.
