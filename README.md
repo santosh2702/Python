@@ -27,5 +27,4 @@ To ease usage to a wide range of people, phpMyAdmin is being translated into 72 
 ## Code style
 
 ```
-bundle exec
 ```
