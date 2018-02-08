@@ -2,12 +2,10 @@
 In the present Time python codes are very effective as compared to others Because ,they are very short time and long gone.
 where we develop a web page and can be controlled by the wamp server with the help of localhost.
 page contains header column from where you can control all your ,
-activities like login regiter etc.
+activities like login, regiter,etc. 
 
 
-
-
-
+<img src=""
 
 
 
