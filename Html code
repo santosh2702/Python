@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>Project</title>
+<style>
+#outer
+{
+height:1200px;
+width:800px;
+//border:1px solid white;
+margin:0px auto;
+}
+#menu
+{
+height:50px;
+width:800px;
+background-color:white;
+border-radius:20px 20px 0px 0px;
+border:1px solid white;
+}
+#menu ul
+{
+list-style-type:none;
+}
+#menu ul li
+{
+display:inline;
+padding:10px;
+}
+#menu ul li a
+{
+color:black;
+text-decoration:none;
+}
+#sofa
+{
+height:250px;
+width:800px;
+margin-top:5px;
+//border:1px solid white;
+}
+#lside
+{
+height:600px;
+width:600px;
+float:left;
+background-color:white;
+border-radius:0px 0px 0px 20px;
+}
+#rside
+{
+height:600px;
+width:200px;
+float:right;
+background-color:lightgrey;
+border-radius:0px 0px 20px 0px;
+}
+#parent
+{
+height:600px;
+width:800px;
+margin-top:5px;
+//background-color:red;
+}
+#footer
+{
+height:270px;
+width:800px;
+background-color:white;
+margin-top:20px;
+border-radius:20px;
+}
+</style>
+</head>
+<body bgcolor="green">
+<div id="outer">
+    <div id="menu">
+	   <ul>
+	      <li><a href="index.html">HOME</a></li>
+	      <li><a href="register.py">REGISTER</a></li>
+	      <li><a href="login.py">LOGIN</a></li>
+	      <li><a href="show.py">SHOW ALL</a></li>
+	      <li><a href="contact.py">CONTACT</a></li>
+	   </ul>
+	</div>
+	<div id="sofa">
+	  <img src="win.jpg" height="250px" width="800px"/>
+	</div>
+	<div id="parent">
+	  <div id="lside">
+	  </div>
+	  <div id="rside">
+	  </div>
+	</div>
+	<div id="footer">
+		<img src="sofa.png" height="250px" width="400px"/>
+		<h > Contact </h>
+	</div>
+</div>
+</body>
+</html>
+
+
