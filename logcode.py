@@ -2,6 +2,7 @@
 print "Content-Type:text/html\n\n"
 
 import cgi
+
 import MySQLdb
 
 data=cgi.FieldStorage()
