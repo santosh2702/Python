@@ -5,7 +5,6 @@ page contains header column from where you can control all your ,
 activities like login, register,etc. 
 
 
-<img src="https://lh3.googleusercontent.com/W7xrhYinjGOM1NwVUE4O_4JLG_xhRB2dDtg88sOAnPzy3HYHzMUlvVlxgKSbNeFEWj3s=s162"/>
 
 ## phpMyAdmin
 phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB. Frequently used operations (managing databases, tables, columns, relations, indexes, users, permissions, etc) can be performed via the user interface, while you still have the ability to directly execute any SQL statement.
