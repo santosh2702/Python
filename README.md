@@ -100,7 +100,7 @@ execute, edit and bookmark any SQL-statement, even batch-queries
       </div>
       <div class="col c3">
         <h2><span>Contact</span></h2>
-        <p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue.</p>
+        <p>Available</p>
         <p><a href="#">cse22702@gmail.com</a></p>
         <p>91+ 0000000000<br />
           0000000000</p>
