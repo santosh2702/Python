@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>CARS</title>
+<title>Python</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="js/cufon-yui.js"></script>
@@ -16,7 +16,7 @@
   <div class="header">
     <div class="header_resize">
       <div class="logo">
-        <h1>Games<a href="index.html"> <small></small></a></h1>
+        <h1>Library<a href="index.html"> <small></small></a></h1>
       </div>
       <div class="clr"></div>
       <div class="menu_nav">
