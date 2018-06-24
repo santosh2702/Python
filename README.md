@@ -49,7 +49,6 @@ PythoData In the present Time python codes are very effective as compared to oth
           <div class="clr"></div>
            Filed under <a href="#">Data</a>, <a href="#">internet</a> with comments <a href="#" class="com">(11)</a></p>
           <img src="images/img1.jpg" width="625" height="205" alt="" />
-          <p>This is a free CSS website template by FreeWebsiteTemplateZ.com. This work is distributed under the Creative Commons Attribution 3.0 License, which means that you are free to use it for any personal or commercial purpose provided the credit links in the template footer are left intact.</p>
           <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
         </div>
         <div class="article">
@@ -57,9 +56,7 @@ PythoData In the present Time python codes are very effective as compared to oth
           <div class="clr"></div>
           <p>phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB. Frequently used operations (managing databases, tables, columns, relations, indexes, users, permissions, etc) can be performed via the user interface, while you still have the ability to directly execute any SQL statement.
 phpMyAdmin comes with a wide range of documentation and users are welcome to update our wiki pages to share ideas and howtos for various operations. The phpMyAdmin team will try to help you if you face any problem; you can use a variety of support channels to get help.
-
 phpMyAdmin is also very deeply documented in a book written by one of the developers – Mastering phpMyAdmin for Effective MySQL Management, which is available in English and Spanish.
-
 To ease usage to a wide range of people, phpMyAdmin is being translated into 72 languages and supports both LTR and RTL languages.</p>
 #### Features
           <p>
@@ -73,7 +70,6 @@ execute, edit and bookmark any SQL-statement, even batch-queries
 6.manage stored procedures and triggers.</p>
           <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
         </div>
-        
       </div>
       <div class="sidebar">
         <div class="gadget">
@@ -88,25 +84,7 @@ execute, edit and bookmark any SQL-statement, even batch-queries
             <li><a href="#">Website</a></li>
           </ul>
         </div>
-        <div class="gadget">
-          <h2 class="star"><span>Sponsors</span></h2>
-          <div class="clr"></div>
-          <ul class="ex_menu">
-            <li><a href="#">Lorem ipsum dolor</a><br />
-              Donec libero. Suspendisse bibendum</li>
-            <li><a href="#">Dui pede condimentum</a><br />
-              Phasellus suscipit, leo a pharetra</li>
-            <li><a href="#">Condimentum lorem</a><br />
-              Tellus eleifend magna eget</li>
-            <li><a href="#">Fringilla velit magna</a><br />
-              Curabitur vel urna in tristique</li>
-            <li><a href="#">Suspendisse bibendum</a><br />
-              Cras id urna orbi tincidunt orci ac</li>
-            <li><a href="#">Donec mattis</a><br />
-              purus nec placerat bibendum</li>
-          </ul>
-        </div>
-      </div>
+        
       <div class="clr"></div>
     </div>
   </div>
