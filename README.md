@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="clr"></div>
-      <img src="D:\Image\Wallpapers/ef.jpg" width="970" height="260" alt="" /> </div>
+      <img src="hbg_img" width="970" height="260" alt="" /> </div>
   </div>
   <div class="content">
     <div class="content_resize">
