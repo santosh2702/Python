@@ -1,16 +1,9 @@
 
-PythoData In the present Time python codes are very effective as compared to others Because ,they execute in very short time and long gone. here, i developed a web page that can be controlled by the wamp server with the help of localhost. page contains header column from where you can control all your , activities like login, register,etc.
+### PythoData In the present Time python codes are very effective as compared to others Because ,they execute in very short time and long gone. here, i developed a web page that can be controlled by the wamp server with the help of localhost. page contains header column from where you can control all your , activities like login, register,etc.
  
 <html>
 <head>
-<title>Python</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link href="style.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/arial.js"></script>
-<script type="text/javascript" src="js/cuf_run.js"></script>
-<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="js/radius.js"></script>
+
 </head>
 <body>
 <!-- START PAGE SOURCE -->
@@ -47,19 +40,20 @@ PythoData In the present Time python codes are very effective as compared to oth
         <div class="article">
           <h2><span></span> License</h2>
           <div class="clr"></div>
-           Filed under <a href="#">Data</a>, <a href="#">internet</a> with comments <a href="#" class="com">(11)</a></p>
+           <a href="#"></a>, <a href="#"></a> <a href="#" class="com"></a></p>
           <img src="images/img1.jpg" width="625" height="205" alt="" />
-          <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
+          <p class="spec"><a href="#" class="rm"></a></p>
         </div>
         <div class="article">
           <h2><span></span></h2>
           <div class="clr"></div>
           <p>phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL and MariaDB. Frequently used operations (managing databases, tables, columns, relations, indexes, users, permissions, etc) can be performed via the user interface, while you still have the ability to directly execute any SQL statement.
 phpMyAdmin comes with a wide range of documentation and users are welcome to update our wiki pages to share ideas and howtos for various operations. The phpMyAdmin team will try to help you if you face any problem; you can use a variety of support channels to get help.
-phpMyAdmin is also very deeply documented in a book written by one of the developers – Mastering phpMyAdmin for Effective MySQL Management, which is available in English and Spanish.
-To ease usage to a wide range of people, phpMyAdmin is being translated into 72 languages and supports both LTR and RTL languages.</p>
-#### Features
+phpMyAdmin is also very deeply documented in a book written by one of the developers – Mastering phpMyAdmin for Effective MySQL Management, which is available in English and Spanish.To ease usage to a wide range of people, phpMyAdmin is being translated into 72 languages and supports both LTR and RTL languages.</p>
+         
+### Features
           <p>
+~~~
 1.Intuitive web interface
 2.Support for most MySQL features:
 3.browse and drop databases, tables, views, fields and indexes
@@ -67,7 +61,9 @@ To ease usage to a wide range of people, phpMyAdmin is being translated into 72 
 maintenance server, databases and tables, with proposals on server configuration
 execute, edit and bookmark any SQL-statement, even batch-queries
 5.manage MySQL user accounts and privileges
-6.manage stored procedures and triggers.</p>
+6.manage stored procedures and triggers.
+~~~
+</p>
           <p class="spec"><a href="#" class="rm">Read more &raquo;</a></p>
         </div>
       </div>
@@ -94,25 +90,21 @@ execute, edit and bookmark any SQL-statement, even batch-queries
         <h2><span>Image Gallery</span></h2>
         <a href="#"><img src="images/pix1.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix2.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix3.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix4.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix5.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix6.jpg" width="58" height="58" alt="" /></a> </div>
       <div class="col c2">
-        <h2><span>Lorem Ipsum</span></h2>
-        <p>Lorem ipsum dolor<br />
         .</p>
       </div>
       <div class="col c3">
         <h2><span>Contact</span></h2>
         <p>Available</p>
-        <p><a href="#">cse22702@gmail.com</a></p>
+        <p><a href="#">singh.santosh2702@gmail.com</a></p>
         <p>91+ 0000000000<br />
-          0000000000</p>
+       </p>
         <p>Address:Delhi</p>
       </div>
-      <div class="clr"></div>
     </div>
   </div>
   <div class="footer">
     <div class="footer_resize">
-      <p class="lf">Copyright<a href="#">SiteName</a>All Rights Reserved</p>
-      <p class="rf">Design by<a href="">Santosh</a></p>
+      <p class="rf"> <a href="">Santosh</a></p>
       <div class="clr"></div>
     </div>
   </div>
