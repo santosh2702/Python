@@ -1,4 +1,8 @@
 
+
+
+
+
 ### PythoData In the present Time python codes are very effective as compared to others Because ,they execute in very short time and long gone. here, i developed a web page that can be controlled by the wamp server with the help of localhost. page contains header column from where you can control all your , activities like login, register,etc.
  
 <html>
@@ -37,13 +41,7 @@
   <div class="content">
     <div class="content_resize">
       <div class="mainbar">
-        <div class="article">
-          <h2><span></span> License</h2>
-          <div class="clr"></div>
-           <a href="#"></a>, <a href="#"></a> <a href="#" class="com"></a></p>
-          <img src="images/img1.jpg" width="625" height="205" alt="" />
-          <p class="spec"><a href="#" class="rm"></a></p>
-        </div>
+        <div class="article">        
         <div class="article">
           <h2><span></span></h2>
           <div class="clr"></div>
@@ -52,7 +50,7 @@ phpMyAdmin comes with a wide range of documentation and users are welcome to upd
 phpMyAdmin is also very deeply documented in a book written by one of the developers – Mastering phpMyAdmin for Effective MySQL Management, which is available in English and Spanish.To ease usage to a wide range of people, phpMyAdmin is being translated into 72 languages and supports both LTR and RTL languages.</p>
          
 ### Features
-          <p>
+         
 ~~~
 1.Intuitive web interface
 2.Support for most MySQL features:
@@ -87,7 +85,7 @@ execute, edit and bookmark any SQL-statement, even batch-queries
   <div class="fbg">
     <div class="fbg_resize">
       <div class="col c1">
-        <h2><span>Image Gallery</span></h2>
+        <h2>Image Gallery</h2>
         <a href="#"><img src="images/pix1.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix2.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix3.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix4.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix5.jpg" width="58" height="58" alt="" /></a> <a href="#"><img src="images/pix6.jpg" width="58" height="58" alt="" /></a> </div>
       <div class="col c2">
         .</p>
@@ -105,8 +103,6 @@ execute, edit and bookmark any SQL-statement, even batch-queries
   <div class="footer">
     <div class="footer_resize">
       <p class="rf"> <a href="">Santosh</a></p>
-      <div class="clr"></div>
-    </div>
   </div>
 </div>
 <!-- END PAGE SOURCE -->
