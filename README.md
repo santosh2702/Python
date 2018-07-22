@@ -78,7 +78,6 @@ execute, edit and bookmark any SQL-statement, even batch-queries
           </ul>
         </div>
         
-      <div class="clr"></div>
     </div>
   </div>
   <div class="fbg">
