@@ -31,7 +31,7 @@
             <span>
             <input name="editbox_search" class="editbox_search" id="editbox_search" maxlength="80" value="Search our ste:" type="text" />
             </span>
-            <input name="button_search" src="images/search_btn.gif" class="button_search" type="image" />
+            <input name="button_search" src="images/search_btn.gif" class="button_search" type="image"/>
           </form>
         </div>
       </div>
@@ -78,8 +78,8 @@ execute, edit and bookmark any SQL-statement, even batch-queries
           </ul>
         </div>
         
-    </div>
-  </div>
+
+</div>
   <div class="fbg">
     <div class="fbg_resize">
       <div class="col c1">
