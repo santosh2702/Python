@@ -3,7 +3,7 @@
 
 
 
-### PythoData In the present Time python codes are very effective as compared to others Because ,they execute in very short time and long gone. here, i developed a web page that can be controlled by the wamp server with the help of localhost. page contains header column from where you can control all your , activities like login, register,etc.
+#### PythoData In the present Time python codes are very effective as compared to others Because ,they execute in very short time and long gone. here, i developed a web page that can be controlled by the wamp server with the help of localhost. page contains header column from where you can control all your , activities like login, register,etc.
  
 <html>
 <head>
