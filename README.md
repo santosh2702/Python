@@ -100,9 +100,9 @@ execute, edit and bookmark any SQL-statement, even batch-queries
   </div>
   <div class="footer">
     <div class="footer_resize">
-      <p class="rf"> <a href="">Santosh</a></p>
+      <p class="rf"> <a href="">Santosh kumar</a></p>
   </div>
-</div>
+</div> 
 <!-- END PAGE SOURCE -->
 </body>
 </html>
